@@ -40,7 +40,7 @@
 
   这时灵感就来了，根据这一思想以及之前通过知网爬虫获取数据的思想，总结出了一个较为理想的方案：
 
-  <img src= ".\images\cnki01.png">
+  ![](/images/cnki01.png)
 
   <img src = ".\images\cnki02.png">
 
